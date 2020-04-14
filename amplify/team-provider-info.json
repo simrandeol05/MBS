@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "reactjswebs-20191006092036-authRole",
+            "UnauthRoleArn": "arn:aws:iam::853493849304:role/reactjswebs-20191006092036-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::853493849304:role/reactjswebs-20191006092036-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "reactjswebs-20191006092036-deployment",
+            "UnauthRoleName": "reactjswebs-20191006092036-unauthRole",
+            "StackName": "reactjswebs-20191006092036",
+            "StackId": "arn:aws:cloudformation:us-east-2:853493849304:stack/reactjswebs-20191006092036/7727fbc0-e844-11e9-ac28-0af659736e02"
+        }
+    }
+}
